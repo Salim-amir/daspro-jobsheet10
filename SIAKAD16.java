@@ -16,7 +16,7 @@ public class SIAKAD16 {
            }
            
            System.out.println("====================================");
-           System.out.println("Rata-rata Nilai setiap Mata Kuliah:");
+           System.out.println("Rata-rata nilai setiap Mata Kuliah:");
      
            for (int j = 0; j < 3; j++) {
                double totalPerMatkul = 0;
